@@ -6,7 +6,8 @@
 
 I’m a passionate MERN Stack Developer who loves building dynamic and scalable web applications from front to back. I specialize in MongoDB, Express.js, React, and Node.js, creating efficient and user-friendly solutions that blend great design with strong functionality. I enjoy solving problems, writing clean and maintainable code, and bringing ideas to life through modern web technologies. I’m always learning new tools and frameworks to improve performance, enhance user experience, and deliver reliable, full-stack applications that make a real impact.
 
-Skills:  React / JS / HTML / Tailwind css /  mongoDB / Express.js / Node.js / Next.JS /  typescript /  Rest APIs / Firebase
+Skills:
+React / JS / HTML / Tailwind css /  mongoDB / Express.js / Node.js / Next.JS /  typescript /  Rest APIs / Firebase
 
 
 

@@ -7,7 +7,17 @@
 I’m a passionate MERN Stack Developer who loves building dynamic and scalable web applications from front to back. I specialize in MongoDB, Express.js, React, and Node.js, creating efficient and user-friendly solutions that blend great design with strong functionality. I enjoy solving problems, writing clean and maintainable code, and bringing ideas to life through modern web technologies. I’m always learning new tools and frameworks to improve performance, enhance user experience, and deliver reliable, full-stack applications that make a real impact.
 
 Skills:
-React / JS / HTML / Tailwind css /  mongoDB / Express.js / Node.js / Next.JS /  typescript /  Rest APIs / Firebase
+React / JS / HTML / Tailwind css /  mongoDB / Express.js / Node.js / Next.JS /  typescript /  Rest APIs / Firebase 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nazrul Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nazrul-islam-4a7912394//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nazrul.dobon.islam/")  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@triplesisters123)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazrul Islam)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazrul Islam&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Nazrul Islam)  
+
+
 
 
 
